@@ -8,8 +8,6 @@ If this wishlist contains an article you would love to read, you can fund the ar
 
 Funding articles and supporting my work will allow me to continue creating Open-Source libraries and sharing my knowledge along the way.
 
-<a href="https://polar.sh/bbohlender"><img src="https://polar.sh/embed/fund-our-backlog.svg?org=bbohlender" /></a>
-
 > [!TIP]
 > Everybody funding an article will appear at the top of the article if they want.
 
