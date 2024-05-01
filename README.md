@@ -1,6 +1,6 @@
 # Welcome 👋
 
-This is a wishlist for technical articles. If you have a question that needs a longer explanation or a topic that interests you in the realm of **3D, UI, or Multiuser**, [create an issue](https://github.com/bbohlender/article-wishlist/issues/new) that describes what the article should be about.
+This is a wishlist for technical articles. If you have a question that needs a longer explanation or need a technical deep dive on any topic in the relam of **3D, UI, or Multiuser**, [create an issue](https://github.com/bbohlender/article-wishlist/issues/new) that describes what the article should be about.
 
 ## Support ❤️
 
